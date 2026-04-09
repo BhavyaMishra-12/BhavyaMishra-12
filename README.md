@@ -1,4 +1,4 @@
-<h1 align="center">Bhavya Mishra</h1>
+<h1 align="center">BHAVYA MISHRA</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate;AI%2FML+Enthusiast;Backend+Developer;DSA+Focused;Building+Real+world+projects&center=true&width=500&height=45">
