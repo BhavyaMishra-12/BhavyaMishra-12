@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavya Mishra</h1>
+<h1 align="center">Hello 👋, I'm Bhavya Mishra</h1>
 <h3 align="center">🚀 Computer Science Undergraduate | AI/ML Enthusiast | Backend Developer</h3>
 
 ---
@@ -69,7 +69,7 @@
 
 ## 🏆 Achievements
 
-- 🧠 Solved **400+ DSA problems** (LeetCode, GFG, HackerRank)
+- 🧠 Solved **250+ DSA problems** (LeetCode, GFG, HackerRank)
 - ⭐ 4-Star Coder on HackerRank
 - 🏁 Selected in **Top 500+ teams** – IIT Kanpur Hackathon (DSA Round 2)
 - 🎤 Participated in:
