@@ -1,14 +1,8 @@
 <h1 align="center">BHAVYA MISHRA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate;AI%2FML+Enthusiast;Backend+Developer;DSA+Focused;Building+Real+world+projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=8F00FF&center=true&vCenter=true&width=600&lines=AI+%7C+Computer+Vision+Enthusiast;Backend+Developer;Building+Real-World+Projects;Always+Learning+🚀" />
 </p>
-
-<!-- <p align="center">
-  <a href="https://github.com/BhavyaMishra-12">
-    <img src="https://komarev.com/ghpvc/?username=BhavyaMishra-12&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p> -->
 
 ---
 
@@ -18,7 +12,6 @@
 - Focused on AI, Machine Learning, and Backend Development  
 - Solved 250+ DSA problems across platforms  
 - Building real-world AI-powered systems  
-- Targeting top tech internships
   
 ---- 
 ## Tech Stack
