@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech CSE @ Pranveer Singh Institute of Technology (CGPA: 7.74)
 - 💡 Passionate about **AI, Machine Learning & Backend Development**
-- 🧠 Strong in **Data Structures & Algorithms (400+ problems solved)**
+- 🧠 Strong in **Data Structures & Algorithms (250+ problems solved)**
 - ⚡ Currently building **AI-powered real-world applications**
 - 🎯 Goal: Crack top tech internships (Google, Microsoft, Amazon)
 
