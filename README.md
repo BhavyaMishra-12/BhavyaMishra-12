@@ -8,13 +8,10 @@
 
 ## About Me
 
-- B.Tech CSE at Pranveer Singh Institute of Technology (CGPA: 7.74)  
-- Focused on AI, Machine Learning, and Backend Development  
-- Solved 250+ DSA problems across platforms  
-- Building real-world AI-powered systems  
+Motivated Computer Science undergraduate skilled in Data Structures, Machine Learning, and backend development. Focused on leveraging Generative AI to enhance system capabilities and deliver scalable, real-world solutions in collaborative environments. 
   
 ---- 
-## Tech Stack
+
 ## 🛠️ Tech Stack
 
 ###  Languages
