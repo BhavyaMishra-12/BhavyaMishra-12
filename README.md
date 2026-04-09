@@ -1,37 +1,37 @@
 <h1 align="center">Hello 👋, I'm Bhavya Mishra</h1>
-<h3 align="center">🚀 Computer Science Undergraduate | AI/ML Enthusiast | Backend Developer</h3>
+<h3 align="center"> Computer Science Undergraduate | AI/ML Enthusiast | Backend Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE @ Pranveer Singh Institute of Technology (CGPA: 7.74)
-- 💡 Passionate about **AI, Machine Learning & Backend Development**
-- 🧠 Strong in **Data Structures & Algorithms (250+ problems solved)**
-- ⚡ Currently building **AI-powered real-world applications**
-- 🎯 Goal: Crack top tech internships (Google, Microsoft, Amazon)
+-  B.Tech CSE @ Pranveer Singh Institute of Technology (CGPA: 7.74)
+-  Passionate about **AI, Machine Learning & Backend Development**
+-  Strong in **Data Structures & Algorithms (250+ problems solved)**
+-  Currently building **AI-powered real-world applications**
+-  Goal: Crack top tech internships (Google, Microsoft, Amazon)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 - C++, JavaScript, Python, C (Basics)
 
-### 🌐 Frontend
+###  Frontend
 - HTML, CSS, React.js
 
-### ⚙️ Backend & Tools
+###  Backend & Tools
 - Node.js, MongoDB
 - Git, GitHub, VS Code
 
-### 🤖 AI/ML
+###  AI/ML
 - OpenCV, MediaPipe, TensorFlow
 - NLP (Learning & Applying)
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 SignBridgeAI (Ongoing)
 > AI-based Sign Language to Speech Translator  
@@ -67,31 +67,31 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🧠 Solved **250+ DSA problems** (LeetCode, GFG, HackerRank)
-- ⭐ 4-Star Coder on HackerRank
-- 🏁 Selected in **Top 500+ teams** – IIT Kanpur Hackathon (DSA Round 2)
-- 🎤 Participated in:
+-  Solved **250+ DSA problems** (LeetCode, GFG, HackerRank)
+-  4-Star Coder on HackerRank
+-  Selected in **Top 500+ teams** – IIT Kanpur Hackathon (DSA Round 2)
+-  Participated in:
   - Google DevFest
   - Quantum Cryptography Contest (PSIT Disha Club)
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- 📘 Machine Learning for Engineering & Science (NPTEL - 2026)
-- 🌐 HTML5 & CSS3 (Infosys - 2024)
-- 🤖 Generative AI Learn-a-thon (GUVI, AICTE & NASSCOM)
-- 🏅 Oracle Certified Associate (2025)
+-  Machine Learning for Engineering & Science (NPTEL - 2026)
+-  HTML5 & CSS3 (Infosys - 2024)
+-  Generative AI Learn-a-thon (GUVI, AICTE & NASSCOM)
+-  Oracle Certified Associate (2025)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 📧 Email: bhav16225@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/bhavya-mishra-6b2777257  
-- 💻 GitHub: https://github.com/BhavyaMishra-12  
+-  Email: bhav16225@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/bhavya-mishra-6b2777257  
+-  GitHub: https://github.com/BhavyaMishra-12  
 
 ---
 
@@ -104,11 +104,11 @@
 
 ---
 
-## 🔥 Current Focus
+##  Current Focus
 
-- 🚀 Building **AI + Web integrated projects**
-- 📚 Mastering **DSA for top tech interviews**
-- 🤖 Exploring **Generative AI & Real-time ML systems**
+-  Building **AI + Web integrated projects**
+-  Mastering **DSA**
+-  Exploring **Generative AI & Real-time ML systems**
 
 ---
 
